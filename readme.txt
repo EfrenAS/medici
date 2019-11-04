@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Datos de descarga de la plantilla
 
 Theme Name: Medicio
 Theme URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
